@@ -1,6 +1,5 @@
 -- GUI contents
-Buttons = {78195344190486, "Dog Mode", 122951149300674, "Helicopter Mode", 121966805049108, "Hit the Griddy", 79757971761739, "Shattered", 83265734904502, "Take the L",
-	112084325910222, "Rambunctious", 115518346414107, "Gangnam Style", 114400428765989, "180° flip", 128334204821841, "Skib toilert", 101625387064604, "I alone am the Honored One", 110146282544198, "Organe Justice", 
+Buttons = {78195344190486, "Dog Mode", 122951149300674, "Helicopter Mode", 121966805049108, "Hit the Griddy", 79757971761739, "Shattered", 83265734904502, "Take the L", 112084325910222, "Rambunctious", 115518346414107, "Gangnam Style", 114400428765989, "180° flip", 128334204821841, "Skib toilert", 101625387064604, "I alone am the Honored One", 110146282544198, "Organe Justice", 
 	10714340543, "The Floss", 77984841414450, "Deltarune dance or smthn", 109873544976020, "Biblically Accurate Emote", 90333292347820, "The Worm", 88130117312312, "Fake Death", 111251252458517, "Uuuuuhhh",
 	84623954062978, "Peter nooooo", 108747312576405, "And I turn into a convertable. Les goooo", 93014787120483, "Garry's Dance", 92618727772186, "IShowSpeed Dance", 99499783161907, "Aura farm",
 	80177289449617, "Snow angel", 70432904702322, "Get skinwalked", 123916423751437, "Rat Dance", 129537633250603, "It's Peanut Butter Jelly Time"}
